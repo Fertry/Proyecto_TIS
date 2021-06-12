@@ -20,4 +20,3 @@ Proyecto para Tecnología, Informática y Sociedad - Universidad de Sevilla
 ![17](https://github.com/Fertry/Proyecto_TIS/blob/main/Im%C3%A1genes/Im%C3%A1genes%20(17).png)
 ![18](https://github.com/Fertry/Proyecto_TIS/blob/main/Im%C3%A1genes/Im%C3%A1genes%20(18).png)
 ![19](https://github.com/Fertry/Proyecto_TIS/blob/main/Im%C3%A1genes/Im%C3%A1genes%20(19).png)
-![20](https://github.com/Fertry/Proyecto_TIS/blob/main/Im%C3%A1genes/Im%C3%A1genes%20(20).png)
